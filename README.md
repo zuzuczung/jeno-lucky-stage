@@ -2,9 +2,21 @@
 
 Concert tương tác chọn ngẫu nhiên học sinh, chạy hoàn toàn trong trình duyệt. React + Vite + TypeScript strict, Motion, SVG tự vẽ, canvas-confetti và Web Audio API. Không cần backend, tài khoản hay API key.
 
-[**Mở bản chạy thử**](https://phamanhduong-jeno.toastyball5.chatgpt.site)
+[**Mở bản chạy thử →**](https://phamanhduong-jeno.toastyball5.chatgpt.site)
 
-![JENO’S LUCKY STAGE với pháo hoa và khán giả cổ vũ](docs/preview.jpg)
+## Ba bước của concert
+
+### 01 · Chào mừng — bước vào Lucky Stage
+
+![Màn hình chào mừng JENO’S LUCKY STAGE](docs/01-welcome.jpg)
+
+### 02 · Fan Zone — đưa cả lớp vào khán đài
+
+![Fan Zone với danh sách lớp và sân khấu xem trước](docs/02-fan-zone.jpg)
+
+### 03 · Concert — Jeno gọi fan lên sân khấu
+
+![Màn công bố fan với Jeno, pháo hoa và khán giả cổ vũ](docs/03-concert-reveal.jpg)
 
 Đây là fan project phục vụ lớp học và mục đích portfolio, không liên kết hay được bảo trợ bởi Jeno, NCT DREAM hoặc SM Entertainment. Tên và nhãn hiệu liên quan thuộc về chủ sở hữu tương ứng.
 
